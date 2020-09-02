@@ -1,6 +1,6 @@
 baseurl = "https://creekorful.dev"
 languageCode = "en-us"
-theme = "hello-friend-ng"
+theme = "hello-friend-ng-clone"
 
 # Set disableReadOtherPosts to true in order to hide the links to other posts.
 disableReadOtherPosts = false
@@ -25,16 +25,20 @@ name = "docker"
 url = "https://hub.docker.com/u/creekorful"
 
 [[params.social]]
+name = "stackoverflow"
+url = "https://stackoverflow.com/users/3042802/creekorful"
+
+[[params.social]]
+name = "debian"
+url = "https://qa.debian.org/developer.php?login=alois%40micard.lu&comaint=yes"
+
+[[params.social]]
 name = "linkedin"
 url = "https://www.linkedin.com/creekorful"
 
 [[params.social]]
 name = "telegram"
 url = "https://t.me/creekorful"
-
-[[params.social]]
-name = "stackoverflow"
-url = "https://stackoverflow.com/users/3042802/creekorful"
 
 [[params.social]]
 name = "email"
