@@ -56,6 +56,11 @@ logoHomeLink = "/"
 logoCursorColor = "#67a2c9"
 
 [[menu.main]]
+identifier = "resume"
+name = "$ /resume/"
+url = "https://resume.creekorful.dev"
+
+[[menu.main]]
 identifier = "blog"
 name = "$ /blog/"
 url = "https://blog.creekorful.com"
