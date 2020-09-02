@@ -34,7 +34,7 @@ url = "https://qa.debian.org/developer.php?login=alois%40micard.lu&comaint=yes"
 
 [[params.social]]
 name = "linkedin"
-url = "https://www.linkedin.com/creekorful"
+url = "https://www.linkedin.com/in/creekorful"
 
 [[params.social]]
 name = "telegram"
