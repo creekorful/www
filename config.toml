@@ -1,0 +1,57 @@
+baseurl = "https://creekorful.dev"
+languageCode = "en-us"
+theme = "hello-friend-ng"
+
+# Set disableReadOtherPosts to true in order to hide the links to other posts.
+disableReadOtherPosts = false
+
+# Enable sharing buttons, if you linke
+enableSharingButtons = true
+
+# Metadata used in document's HEAD
+description = "My new homepage or blog"
+keywords = "homepage, blog"
+
+# Default theme "light" or "dark"
+defaultTheme = "dark"
+
+# Social icons
+[[params.social]]
+name = "github"
+url = "https://github.com/creekorful"
+
+[[params.social]]
+name = "docker"
+url = "https://hub.docker.com/u/creekorful"
+
+[[params.social]]
+name = "linkedin"
+url = "https://www.linkedin.com/creekorful"
+
+[[params.social]]
+name = "telegram"
+url = "https://t.me/creekorful"
+
+[[params.social]]
+name = "stackoverflow"
+url = "https://stackoverflow.com/users/3042802/creekorful"
+
+[[params.social]]
+name = "email"
+url = "mailto:alois@micard.lu"
+
+[languages]
+[languages.en]
+title = "Aloïs Micard"
+subtitle = "Architecture & security"
+homeSubtitle = "Architecture & Security | Open Source | Debian Maintainer | Writeups"
+
+[languages.en.params.logo]
+logoText = "$ /home/"
+logoHomeLink = "/"
+logoCursorColor = "#67a2c9"
+
+[[menu.main]]
+identifier = "blog"
+name = "$ /blog/"
+url = "https://blog.creekorful.com"
