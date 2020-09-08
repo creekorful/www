@@ -41,6 +41,10 @@ name = "telegram"
 url = "https://t.me/creekorful"
 
 [[params.social]]
+name = "matrix"
+url = "https://matrix.to/#/@creekorful:matrix.org"
+
+[[params.social]]
 name = "email"
 url = "mailto:alois@micard.lu"
 
