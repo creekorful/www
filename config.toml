@@ -21,12 +21,13 @@ name = "github"
 url = "https://github.com/creekorful"
 
 [[params.social]]
-name = "docker"
-url = "https://hub.docker.com/u/creekorful"
-
-[[params.social]]
 name = "stackoverflow"
 url = "https://stackoverflow.com/users/3042802/creekorful"
+
+
+[[params.social]]
+name = "hackerone"
+url = "https://hackerone.com/creekorful"
 
 [[params.social]]
 name = "debian"
