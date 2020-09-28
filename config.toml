@@ -21,15 +21,6 @@ name = "github"
 url = "https://github.com/creekorful"
 
 [[params.social]]
-name = "stackoverflow"
-url = "https://stackoverflow.com/users/3042802/creekorful"
-
-
-[[params.social]]
-name = "hackerone"
-url = "https://hackerone.com/creekorful"
-
-[[params.social]]
 name = "debian"
 url = "https://qa.debian.org/developer.php?login=alois%40micard.lu&comaint=yes"
 
@@ -53,7 +44,7 @@ url = "mailto:alois@micard.lu"
 [languages.en]
 title = "Aloïs Micard"
 subtitle = "Architecture & security"
-homeSubtitle = "Architecture & Security | Open Source | Debian Maintainer | Writeups"
+homeSubtitle = "Architecture & Security | Open Source | Debian Maintainer"
 
 [languages.en.params.logo]
 logoText = "$ /home/"
@@ -62,10 +53,10 @@ logoCursorColor = "#67a2c9"
 
 [[menu.main]]
 identifier = "resume"
-name = "$ /resume/"
+name = "Resume"
 url = "https://resume.creekorful.dev"
 
 [[menu.main]]
 identifier = "blog"
-name = "$ /blog/"
+name = "Blog"
 url = "https://blog.creekorful.com"
