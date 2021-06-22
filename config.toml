@@ -1,4 +1,4 @@
-baseurl = "https://creekorful.dev"
+baseurl = "https://www.creekorful.org"
 languageCode = "en-us"
 theme = "hello-friend-ng-clone"
 
@@ -44,7 +44,7 @@ url = "mailto:alois@micard.lu"
 [languages.en]
 title = "Aloïs Micard"
 subtitle = "Architecture & security"
-homeSubtitle = "Architecture & Security | Open Source | Debian Maintainer"
+homeSubtitle = "Architecture & Security | Open Source | Debian Developer"
 
 [languages.en.params.logo]
 logoText = "$ /home/"
