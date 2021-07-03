@@ -60,3 +60,7 @@ url = "https://resume.creekorful.dev"
 identifier = "blog"
 name = "Blog"
 url = "https://blog.creekorful.org"
+
+[params.portrait]
+path     = "/img/avatar.jpg"
+alt      = "Portrait"
