@@ -38,8 +38,8 @@ url = "https://matrix.to/#/@creekorful:matrix.org"
 [languages]
 [languages.en]
 title = "Aloïs Micard"
-subtitle = "Architecture & security"
-homeSubtitle = "Architecture & Security | Open Source | Debian Developer"
+subtitle = "CyberSec Engineer"
+homeSubtitle = "CyberSec | Open Source | Debian Developer"
 
 [languages.en.params.logo]
 logoText = "$ /home/"
