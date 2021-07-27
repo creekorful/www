@@ -68,5 +68,5 @@ author    = false
 
 topText = []
 bottomText = [
-  "<a href=\"mailto:alois@micard.lu\">alois@micard.lu</a> / <a href=\"mailto:creekorful@debian.org\">creekorful@debian.org</a>"
+  "<a style=\"text-decoration: none\" href=\"mailto:alois@micard.lu\">alois@micard.lu</a> / <a style=\"text-decoration: none\" href=\"mailto:creekorful@debian.org\">creekorful@debian.org</a>"
 ]
