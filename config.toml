@@ -9,8 +9,8 @@ disableReadOtherPosts = false
 enableSharingButtons = true
 
 # Metadata used in document's HEAD
-description = "My new homepage or blog"
-keywords = "homepage, blog"
+description = "Aloïs Micard homepage"
+keywords = "homepage"
 
 copyright = "Aloïs Micard"
 
@@ -47,9 +47,9 @@ logoHomeLink = "/"
 logoCursorColor = "#67a2c9"
 
 [[menu.main]]
-identifier = "resume"
-name = "Resume"
-url = "https://resume.creekorful.dev"
+identifier = "photos"
+name = "Photos"
+url = "https://photos.creekorful.org"
 
 [[menu.main]]
 identifier = "blog"
