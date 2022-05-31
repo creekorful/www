@@ -49,7 +49,7 @@ logoCursorColor = "#67a2c9"
 [[menu.main]]
 identifier = "photos"
 name = "Photos"
-url = "https://photos.creekorful.org"
+url = "https://500px.com/p/creekorful"
 
 [[menu.main]]
 identifier = "blog"
