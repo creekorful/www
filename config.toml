@@ -54,7 +54,7 @@ url = "https://500px.com/p/creekorful"
 [[menu.main]]
 identifier = "blog"
 name = "Blog"
-url = "https://blog.creekorful.org"
+url = "https://creekorful.blog"
 
 [params.portrait]
 path     = "/img/avatar.jpg"
